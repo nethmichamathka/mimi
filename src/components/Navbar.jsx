@@ -2,7 +2,7 @@ import React from 'react';
 
 const Navbar = () => {
   return (
-    <div className="flex justify-between items-center h-24 px-4 bg-softPink text-deepTaupe">
+    <div className="flex justify-between items-center h-24 px-4 bg-deepTaupe text-lightBeige">
       {/* Logo */}
       <h1 className="text-3xl font-bold">Mimi Makeup</h1>
 
